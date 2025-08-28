@@ -1,0 +1,46 @@
+﻿@using ABC_Retail.Models
+@model IEnumerable<Products>
+
+@{
+    ViewData["Title"] = "Product";
+}
+
+    <h2>Product</h2>
+
+    <a class="btn btn-primary" asp-action="Create">Add new product</a>
+<a class="btn btn-info" asp-action="Log">View Log</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Profile Pic</th>
+            <th>ProductId</th>
+            <th>ProductName</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Stock</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var products in Model)
+        {
+            <tr>
+                <td>
+                    @if (!string.IsNullOrEmpty(products.PhotoUrl))
+                    {
+                        <img src="@products.PhotoUrl" alt="@products.ProductName" style="max-width:100px;" />
+                    }
+                </td>
+                <td>@products.ProductId</td>
+                <td>@products.ProductName</td>
+                <td>@products.Description</td>
+                <td>@products.Price</td>
+                <td>@products.Stock</td>
+                <td>
+                    <a asp-action="Details" asp-route-partitionKey="@products.PartitionKey" asp-route-rowKey="@products.RowKey">Details</a> |
+                    <a asp-action="Edit" asp-route-partitionKey="@products.PartitionKey" asp-route-rowKey="@products.RowKey">Edit</a> |
+                    <a asp-action="Delete" asp-route-partitionKey="@products.PartitionKey" asp-route-rowKey="@products.RowKey">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

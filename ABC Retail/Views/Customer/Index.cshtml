@@ -1,0 +1,45 @@
+﻿@using ABC_Retail.Models
+@model IEnumerable<Customer>
+
+@{
+    ViewData["Title"] = "Customer";
+}
+
+    <h2>Customer</h2>
+
+    <a class="btn btn-primary" asp-action="Create">Add new customer</a>
+    <a class="btn btn-info" asp-action="Log">View Log</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Profile Pic</th>
+            <th>CustomerId</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone number</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>
+                    @if (!string.IsNullOrEmpty(customer.PhotoUrl))
+                    {
+                        <img src="@customer.PhotoUrl" alt="@customer.FirstName" style="max-width:100px;" />
+                    }
+                </td>
+                <td>@customer.CustomerId</td>
+                <td>@customer.FirstName</td>
+                <td>@customer.LastName</td>
+                <td>@customer.Email</td>
+                <td>@customer.PhoneNumber</td>
+                <td>
+                    <a asp-action="Details" asp-route-partitionKey="@customer.PartitionKey" asp-route-rowKey="@customer.RowKey">Details</a> |
+                    <a asp-action="Edit" asp-route-partitionKey="@customer.PartitionKey" asp-route-rowKey="@customer.RowKey">Edit</a> |
+                    <a asp-action="Delete" asp-route-partitionKey="@customer.PartitionKey" asp-route-rowKey="@customer.RowKey">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

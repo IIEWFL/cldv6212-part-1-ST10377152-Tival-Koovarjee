@@ -1,0 +1,109 @@
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\appsettings.Development.json
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\appsettings.json
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\ABC Retail.staticwebassets.runtime.json
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\ABC Retail.staticwebassets.endpoints.json
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\ABC Retail.exe
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\ABC Retail.deps.json
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\ABC Retail.runtimeconfig.json
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\ABC Retail.dll
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\ABC Retail.pdb
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\Azure.Core.dll
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\Azure.Data.Tables.dll
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\Azure.Storage.Blobs.dll
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\Azure.Storage.Common.dll
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\Azure.Storage.Files.Shares.dll
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\Azure.Storage.Queues.dll
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\System.ClientModel.dll
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\System.IO.Hashing.dll
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\bin\Release\net9.0\System.Memory.Data.dll
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\ABC Retail.csproj.AssemblyReference.cache
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\rpswa.dswa.cache.json
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\ABC Retail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\ABC Retail.AssemblyInfoInputs.cache
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\ABC Retail.AssemblyInfo.cs
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\ABC Retail.csproj.CoreCompileInputs.cache
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\ABC Retail.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\ABC Retail.RazorAssemblyInfo.cache
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\ABC Retail.RazorAssemblyInfo.cs
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\rjimswa.dswa.cache.json
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\scopedcss\bundle\ABC Retail.styles.css
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\scopedcss\projectbundle\ABC Retail.bundle.scp.css
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\07yjpz116h-s2ve8lk9za.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\ahbstqfh6e-61n19gt1b8.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\0xpibqa0r5-xtxxf3hu2r.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\womygwlcxd-bqjiyaj88i.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\8vzr2ssow5-c2jlpeoesf.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\2t1s57hhcl-erw9l3u2r3.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\ddy7ctbx3t-aexeepp0ev.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\9dban2y8ey-d7shbmvgxk.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\ic40zsgict-ausgxo2sd3.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\sbqud3r7pm-k8d9w2qqmf.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\ev8aie93r0-cosvhxvwiu.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\wllqqqllwl-ub07r2b239.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\inyfx18by6-fvhpjtyr6v.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\hmig3qa87o-b7pk76d08c.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\vvzrz191bv-fsbi9cje9m.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\zvvyatcsaj-rzd6atqjts.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\qslhf4tez7-ee0r1s7dh0.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\2xs0w6jaz5-dxx9fxp4il.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\trvgvnbyv6-jd9uben2k1.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\agqf980inn-khv3u5hwcm.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\g94ogf45bp-r4e9w2rdcm.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\wlu958vlzw-lcd1t2u6c8.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\xmsjg8lwfq-c2oey78nd0.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\zsdrz9by8q-tdbxkamptv.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\oweb3c4mq5-j5mq2jizvt.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\h8bfl2ag7t-06098lyss8.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\740cvjy1da-nvvlpmu67g.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\v2x8na874u-s35ty4nyc5.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\sn12nysita-pj5nd1wqec.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\65gcwjy2jc-46ein0sx1k.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\44a1yanr82-v0zj4ognzu.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\w4llz93mjw-37tfw0ft22.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\lkj64m84t3-hrwsygsryq.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\vjwmgd7n06-pk9g2wxc8p.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\29gjxgrcm0-ft3s53vfgj.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\kpzhs4blwj-6cfz1n2cew.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\fxu9u51emx-6pdc2jztkx.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\hadkh1oqi9-493y06b0oq.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\5h4qn4hopq-iovd86k7lj.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\ydd8jtf1x7-vr1egmr9el.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\k3t1pb69oi-kbrnm935zg.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\bwe46zk0d6-jj8uyg4cgr.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\9uk3t0wejz-y7v9cxd14o.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\x312roua96-notf2xhcfb.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\b4sbqcwkx6-h1s4sie4z3.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\2wnjkefo79-63fj8s7r0e.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\4adl2tjt4f-0j3bgjxly4.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\g5m5qpqab7-47otxtyo56.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\48y6t5jo6b-4v8eqarkd7.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\vy13sgrbym-356vix0kms.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\gu2k0esbuh-83jwlth58m.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\89zl9hiwkr-mrlpezrjn3.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\ohny12gdej-lzl9nlhx6b.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\shha80f59a-ag7o75518u.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\35winz1oye-x0q3zqp4vz.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\1f5s72fdzt-0i3buxo5is.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\r78e7a03iq-o1o13a6vjx.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\jn0znhhgbj-ttgo8qnofa.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\odb1k0x68r-2z0ns9nrw6.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\859voyj4zr-muycvpuwrr.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\ixl85qqx9r-87fc7y1x7t.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\dpltbuchty-mlv21k5csn.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\v0qjq0u6wd-h1ocvnltzj.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\compressed\euavb8v3f5-h1ocvnltzj.gz
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\staticwebassets.build.json
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\staticwebassets.build.json.cache
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\staticwebassets.development.json
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\ABC Retail.csproj.Up2Date
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\ABC Retail.dll
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\refint\ABC Retail.dll
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\ABC Retail.pdb
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\ABC Retail.genruntimeconfig.cache
+C:\Users\Tival\OneDrive\Документы\My Web Sites\ABC Retail\obj\Release\net9.0\ref\ABC Retail.dll

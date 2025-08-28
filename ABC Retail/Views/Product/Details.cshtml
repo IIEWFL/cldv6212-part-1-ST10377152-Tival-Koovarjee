@@ -1,0 +1,37 @@
+﻿@model ABC_Retail.Models.Products
+
+@{
+    ViewData["Title"] = "Products Details";
+}
+
+<h2>Product Details</h2>
+
+<div>
+    <div>
+        @if (!string.IsNullOrEmpty(Model.PhotoUrl))
+        {
+            <img src="@Model.PhotoUrl" alt="@Model.ProductName" style="max-width:200px;" />
+        }
+    </div>
+    <dl class="row">
+
+        <dt class="col-sm-2">Name</dt>
+        <dd class="col-sm-10">@Model.ProductName</dd>
+
+        <dt class="col-sm-2">Description</dt>
+        <dd class="col-sm-10">@Model.Description</dd>
+
+        <dt class="col-sm-2">Price</dt>
+        <dd class="col-sm-10">@Model.Price</dd>
+
+        <dt class="col-sm-2">Stock</dt>
+        <dd class="col-sm-10">@Model.Stock</dd>
+    </dl>
+</div>
+
+<p>
+    <a class="btn btn-secondary" asp-action="Edit" asp-route-partitionKey="@Model.PartitionKey" asp-route-rowKey="@Model.RowKey">Edit</a>
+    <a class="btn btn-primary" asp-action="Index">Back to List</a>
+</p>
+
+}
